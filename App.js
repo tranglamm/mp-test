@@ -34,6 +34,7 @@ function ExpensesOverview() {
         ),
       })}
     >
+      <Text>This is a test</Text>
       <BottomTabs.Screen
         name="RecentExpenses"
         component={RecentExpenses}
